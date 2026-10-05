@@ -15,7 +15,7 @@ Me gusta programar la aplicación en sí: la lógica, las funcionalidades y la e
 ## 🌐 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iv%C3%A1n-martinez-losa-151796370/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanmartinezlosa@gmail.com)
 
 ---
 
